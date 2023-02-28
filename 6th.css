@@ -1,0 +1,106 @@
+ .navbar {
+     margin: 2px;
+     border-radius: 30px;
+     background-color: rgb(255, 255, 255);
+     color: rgb(44, 13, 13);
+
+     border-color: blue;
+     border-top-style: double;
+ }
+
+
+ .navbar ul {
+     overflow: auto;
+
+ }
+
+ .navbar li {
+     padding: 5px 5px;
+     float: left;
+     list-style: none;
+     margin: 10px 18px;
+     text-align: center;
+     text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .heading {
+     font-family: sans-serif;
+     margin-left: 40px;
+     margin-top: 60px;
+     text-align: justify;
+     
+ }
+
+ .button {
+     background-color: blueviolet;
+     padding: 20px 20px 20px 20px;
+     border-radius: 5px;
+     border-radius: 5px;
+ }
+
+ .btn {
+     padding-bottom: 20px;
+     justify-content: center;
+
+ }
+
+ .navbar li a {
+     margin-top: 10px;
+     color: rgb(0, 0, 0);
+     text-decoration: none;
+ }
+ .uperpage{
+    display: flex;
+    margin: 20px 20px 20px;
+    border-top: double;
+ }
+ .head{
+    display: flex;
+    background-color: yellowgreen;
+    width: 100%;
+    height: 20px;
+ }
+ .li2 ul{ 
+    background-color: rgb(167, 86, 241);
+    color: white;
+    list-style: none;
+    font-style: italic;
+    float: left;
+    text-decoration: none;
+    display: flex;
+    width: 10px;
+    height: 8px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+ }
+.images div{
+    margin left: 20px;
+    background-color: rgb(219, 219, 99);
+    border-radius: 30px;
+    border-color: blue;
+    display: flex;
+}
+.imagg{
+    border-radius: 50px;
+
+}
+.dfns{
+    text-align: justify;
+}
+.Heading{
+    display: flex;
+    gap: 20px;
+
+}
+.last{
+    color: rgb(10, 177, 10);
+    text-align: center;
+    text-decoration: dotted;
+}
+.image3{
+    border-radius: 30px 30px 30px 30px;
+    margin-top: 20px;
+     margin-left: 560px;
+}
